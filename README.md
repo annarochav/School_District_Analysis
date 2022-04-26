@@ -14,7 +14,7 @@ If we compare the initial district summary with the updated one, we can see that
 
 The scores of Thomas High School were the only ones affected. The initial passing math percentage was 93.27% and it dropped to 66.91%, the passing reading percentage was 97.30% and dropped to 69.66%, the overall passing percentage was 90.94% and dropped to 65.07%. 
 
-<img src="https://github.com/annarochav/School_District_Analysis/blob/main/Resources/school_summary.png" width="550" height="550" />
+<img src="https://github.com/annarochav/School_District_Analysis/blob/main/Resources/school_summary.png" width="550" height="570" />
 
 **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
@@ -28,7 +28,7 @@ In the initial analysis, Thomas High School was in the top school performers wit
 
 Their math and reading scores are shown as not a number. NaN isn’t a 0, it’s a null value which is empty. The rest of the data remains the same.
 
-<img src="https://github.com/annarochav/School_District_Analysis/blob/main/Resources/Math_and_reading_scores_by_grade.png" width="470" height="200" />
+<img src="https://github.com/annarochav/School_District_Analysis/blob/main/Resources/Math_and_reading_scores_by_grade.png" width="450" height="170" />
 
 **2. Scores by school spending:** 
 
@@ -55,10 +55,10 @@ This are the four changes in the updated school district analysis after reading 
 
 1.	Math and reading scores of Thomas High School 9th graders cannot be compared with other schools because data is null.
 
-<img src="https://github.com/annarochav/School_District_Analysis/blob/main/Resources/code_1.png" width="860" height="180" />
+<img src="https://github.com/annarochav/School_District_Analysis/blob/main/Resources/code_1.png" width="760" height="180" />
 
 2.	The district summary had a decrease of 0.1% in the overall passing percentage, it was 65% and changed to 64.9%.
 3.	Thomas High School in the initial analysis was a top performer school and with the update became a bottom school performer.
 4.	The 9th graders scores were removed completely, and the 10th, 11th and 12th grades were maintained to bring the data back up. Scores by school spending, size and type remain the same.
 
-<img src="https://github.com/annarochav/School_District_Analysis/blob/main/Resources/code_2.png" width="840" height="160" />
+<img src="https://github.com/annarochav/School_District_Analysis/blob/main/Resources/code_2.png" width="740" height="160" />
